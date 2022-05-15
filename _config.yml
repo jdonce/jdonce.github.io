@@ -1,0 +1,8 @@
+title: 邓敏 － 个人博客
+description: 技术
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
